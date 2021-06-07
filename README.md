@@ -4,7 +4,12 @@
 
 A simple to-do list app for GNOME
 
-![Tasko](data/img/tasks.png?raw=true)
+<br>
+
+<p float="middle">
+  <img src="data/img/tasks.png?raw=true"/>
+  <img src="data/img/menu.png?raw=true"/> 
+</p>
 
 Tasko /'tasko/ (task in Esperanto)  is a simple to-do list for GNOME. It is designed to be simple and reliable. You just open the app, write down your tasks and close it. You can also mark the tasks as done and remove them later. Everything is fast and easy to use.
 
