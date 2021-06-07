@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tasko package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tasko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-07 14:34-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/com.github.xfgusta.tasko.desktop.in:3
+#: data/com.github.xfgusta.tasko.appdata.xml.in:8
+msgid "Tasko"
+msgstr ""
+
+#: data/com.github.xfgusta.tasko.desktop.in:4
+msgid "Manage your personal tasks"
+msgstr ""
+
+#: data/com.github.xfgusta.tasko.desktop.in:11
+msgid "Task;Productivity;Todo;"
+msgstr ""
+
+#: data/com.github.xfgusta.tasko.appdata.xml.in:9 src/ui/about.ui:11
+msgid "A simple to-do list"
+msgstr ""
+
+#: data/com.github.xfgusta.tasko.appdata.xml.in:11
+msgid ""
+"Tasko is a simple to-do list for GNOME. It is designed to be simple and "
+"reliable. You just open the app, write down your tasks and close it. You can "
+"also mark the tasks as done and remove them later. Everything is fast and "
+"easy to use."
+msgstr ""
+
+#: data/com.github.xfgusta.tasko.appdata.xml.in:24
+msgid "Initial release."
+msgstr ""
+
+#: data/com.github.xfgusta.tasko.appdata.xml.in:59
+msgid "Gustavo Costa"
+msgstr ""
+
+#: src/ui/window.ui:67
+msgid "Add task to list"
+msgstr ""
+
+#: src/ui/window.ui:68
+msgid "New task..."
+msgstr ""
+
+#: src/ui/about.ui:13
+msgid "GitHub page"
+msgstr ""
+
+#. Replace me with your names.
+#: src/ui/about.ui:15
+msgid "translator-credits"
+msgstr ""
+
+#: src/ui/task_row.ui:43
+msgid "Delete task"
+msgstr ""
+
+#: src/ui/menu.ui:6
+msgid "Delete completed tasks"
+msgstr ""
+
+#: src/ui/menu.ui:10
+msgid "Delete all tasks"
+msgstr ""
+
+#: src/ui/menu.ui:16
+msgid "About Tasko"
+msgstr ""
+
+#: src/window.py:97
+msgid "Unmark as done"
+msgstr ""
+
+#: src/window.py:100
+msgid "Mark as done"
+msgstr ""
