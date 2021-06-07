@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <menu id="menu">
+    <section>
+      <item>
+        <attribute name="label" translatable="yes">Delete completed tasks</attribute>
+        <attribute name="action">app.delete_completed</attribute>
+      </item>
+      <item>
+        <attribute name="label" translatable="yes">Delete all tasks</attribute>
+        <attribute name="action">app.delete_all</attribute>
+      </item>
+    </section>
+    <section>
+      <item>
+        <attribute name="label" translatable="yes">About Tasko</attribute>
+        <attribute name="action">app.about</attribute>
+      </item>
+    </section>
+  </menu>
+</interface>

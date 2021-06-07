@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Tasko
+Comment=Manage your personal tasks
+Exec=tasko
+Icon=com.github.xfgusta.tasko
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Utility;
+StartupNotify=false
+Keywords=Task;Productivity;Todo;

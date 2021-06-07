@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/xfgusta/tasko">
+    <file>ui/window.ui</file>
+    <file>ui/menu.ui</file>
+    <file>ui/about.ui</file>
+    <file>ui/task_row.ui</file>
+  </gresource>
+</gresources>

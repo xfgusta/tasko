@@ -1,0 +1,9 @@
+data/com.github.xfgusta.tasko.desktop.in
+data/com.github.xfgusta.tasko.appdata.xml.in
+data/com.github.xfgusta.tasko.gschema.xml
+src/ui/window.ui
+src/ui/about.ui
+src/ui/task_row.ui
+src/ui/menu.ui
+src/window.py
+

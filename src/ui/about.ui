@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <requires lib="gtk+" version="3.24"/>
+  <object class="GtkAboutDialog" id="about_dialog">
+    <property name="modal">True</property>
+    <property name="destroy_with_parent">True</property>
+    <property name="type_hint">dialog</property>
+    <property name="program_name">Tasko</property>
+    <property name="logo_icon_name">com.github.xfgusta.tasko</property>
+    <property name="copyright">Copyright 2021 Gustavo Costa</property>
+    <property name="comments" translatable="yes">A simple to-do list</property>
+    <property name="website">https://github.com/xfgusta/tasko</property>
+    <property name="website_label" translatable="yes">GitHub page</property>
+    <property name="authors">Gustavo Costa &lt;xfgusta@gmail.com&gt;</property>
+    <property name="translator-credits" translatable="yes" comments="Replace me with your names.">translator-credits</property>
+    <property name="license_type">mit-x11</property>
+  </object>
+</interface>
