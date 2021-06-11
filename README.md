@@ -15,7 +15,21 @@ Tasko /'tasko/ (task in Esperanto)  is a simple to-do list for GNOME. It is desi
 
 ## Installation 
 
-### Requirements
+### Flatpak
+
+Install from the [flatpak package](https://github.com/xfgusta/tasko/releases/download/v1.0/tasko.flatpak) with:
+
+```
+flatpak install tasko.flatpak
+```
+
+The flatpak package requires the org.gnome.Platform (version 40) runtime.
+
+To uninstall, run `flatpak uninstall com.github.xfgusta.tasko`.
+
+### Building from source
+
+#### Requirements
 
 - Python 3 `python`
 - PyGObject `python-gobject`
